@@ -1,4 +1,5 @@
-## Hi there 👋
+<img width="400" height="260" alt="image" src="https://github.com/user-attachments/assets/c536f230-2a18-4937-90c6-51b3c9f9656a" />
+
 
 
 # 📄 **Technical Writer Portfolio – S Sebastian Ramesh**
