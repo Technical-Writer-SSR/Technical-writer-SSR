@@ -20,7 +20,7 @@ I am a detail-oriented **Technical Writer (Fresher)** with experience creating:
 * GitHub README Documentation
 * Markdown-based Technical Content
 
-With a background in **Embedded System Technology (M.E.)**, I can understand complex technical concepts and explain them in a clear, simple, and structured manner.
+With a background in **Embedded System Technology (Master's.)**, I can understand complex technical concepts and explain them in a clear, simple, and structured manner.
 
 ---
 
