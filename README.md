@@ -23,6 +23,8 @@ I am a detail-oriented **Technical Writer (Fresher)** with experience creating:
 * Markdown-based Technical Content
 
 With a background in **Embedded System Technology (Master's.)**, I can understand complex technical concepts and explain them in a clear, simple, and structured manner.
+With a Master's degree in Embedded Systems Technology, I am able to understand complex technical concepts and communicate them in a clear, simple, and well-structured manner.
+
 
 ---
 
