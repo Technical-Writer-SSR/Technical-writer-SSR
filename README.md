@@ -3,7 +3,7 @@
 
 
 
-# 📄 **Technical Writer Portfolio – S Sebastian Ramesh**
+#  **Technical Writer Portfolio – S Sebastian Ramesh**
 
 Welcome to my Technical Writer portfolio!
 I am an aspiring **Technical Writer** with a strong foundation in **Embedded Systems, Electronics, and Software Documentation**.
@@ -26,13 +26,13 @@ With a background in **Embedded System Technology (Master's.)**, I can understan
 
 ---
 
-## 🎯 **Career Objective**
+##  **Career Objective**
 
 To grow as a **Technical Writer** by creating high-quality documentation that improves user understanding, supports engineering teams, and enhances product usability.
 
 ---
 
-## 🛠️ **Skills**
+##  **Skills**
 
 ### **Technical Writing**
 
@@ -61,34 +61,31 @@ To grow as a **Technical Writer** by creating high-quality documentation that im
 
 ---
 
-## 📘 **Documentation Projects in This Repository**
+##  **Documentation Projects in This Repository**
 
-### **📁 Installation Guide Documentation**
+###  Installation Guide Documentation
 
 A step-by-step installation guide for a Linux-based tool including prerequisites, commands, and troubleshooting.
 
-### **📁 API Overview Documentation**
+###  API Overview Documentation
 
 A beginner-friendly API reference with endpoints, request/response formats, JSON examples, and explanations.
 
-### **📁 Troubleshooting Guide**
+###  Troubleshooting Guide
 
 Documentation for common system issues, identifying causes and recommended solutions.
 
-### **📁 Sample README Files**
+###  Sample README Files
 
 Structured GitHub READMEs for sample software and embedded projects, following industry standards.
 
 ---
 
-## 📫 **Contact**
+##  Contact
 
 📧 **[ssrrameshjs@gmail.com](mailto:ssrrameshjs@gmail.com)**
 
 ---
 
-## ⭐ **Declaration**
-
-All documents in this repository are created by me for learning and portfolio purposes. They are fully original and reflect my writing skills and understanding of technical concepts.
 
 ---
