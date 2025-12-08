@@ -87,5 +87,3 @@ Structured GitHub READMEs for sample software and embedded projects, following i
 
 ---
 
-
----
