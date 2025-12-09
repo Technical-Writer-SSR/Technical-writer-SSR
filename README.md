@@ -9,9 +9,8 @@ Welcome to my Technical Writer portfolio!
 I am an aspiring **Technical Writer** with a strong foundation in **Embedded Systems, Electronics, and Software Documentation**.
 This repository contains my sample documentation work, writing projects, and technical writing practice materials.
 # Available for Freelance Technical Writing & Documentation Projects
-** Seeking to collaborate with companies and teams requiring precise, clear, and user-centered technical documentation.
-Whether you need device driver guides, API documentation, user manuals, datasheets, or process documentation – I am here to deliver structured, accurate, and professional content tailored to your audience.**
-
+#Seeking to collaborate with companies and teams requiring precise, clear, and user-centered technical documentation.
+#Whether you need device driver guides, API documentation, user manuals, datasheets, or process documentation – I am here to deliver structured, accurate, and professional content tailored to your audience.
 
 
 ---
