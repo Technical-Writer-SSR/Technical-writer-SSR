@@ -27,7 +27,7 @@ Whether you need device driver guides, API documentation, user manuals, datashee
 
 ## 🔹 **About Me**
 
-I am a detail-oriented **Technical Writer (Fresher)** with experience creating:
+I am a detail-oriented **Technical Writer ** with experience creating:
 
 * User Guides
 * Installation Manuals
