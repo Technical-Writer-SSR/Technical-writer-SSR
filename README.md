@@ -3,7 +3,17 @@
 
 
 
-#  **Technical Writer Portfolio – S Sebastian Ramesh**
+
+# Technical Writer Portfolio – S Sebastian Ramesh
+
+![Technical Writer](https://img.shields.io/badge/Technical-Writer-informational)
+![Embedded Systems](https://img.shields.io/badge/Embedded-Systems-green)
+![Software Documentation](https://img.shields.io/badge/Software-Documentation-blue)
+![API Documentation](https://img.shields.io/badge/API-Documentation-orange)
+![User Guides](https://img.shields.io/badge/User-Guides-important)
+![Precision Writing](https://img.shields.io/badge/Precision-Writing-9cf)
+![Freelance Available](https://img.shields.io/badge/Freelance-Available-brightgreen)
+![Open for Collaboration](https://img.shields.io/badge/Open_for-Collaboration-blueviolet)
 
 Welcome to my Technical Writer portfolio!
 I am an aspiring **Technical Writer** with a strong foundation in **Embedded Systems, Electronics, and Software Documentation**.
